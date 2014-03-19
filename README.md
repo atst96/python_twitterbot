@@ -8,3 +8,6 @@ Python製TwitterBot
 記号など仕込まれると落ちます(Windows)
 
 まだ未完成です(；´∀｀)
+
+
+ライブラリはtweepyとurllibが必要ですので事前にインストールしてある必要があります
